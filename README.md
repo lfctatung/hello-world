@@ -1,11 +1,11 @@
 # hello-world
 This is my first git project. 
 The event sequence is shown below from branching and merging:
-> **Project** is "hello-world" with a Master branch and many other feature branches 
-> **Create** Branch out of the Master so that the branch has a snpashot of Master
-> Add or **Edit** files and Save changes by Commit one file change at a time 
-> **Pull request** for all the changes to that branch 
-> **Merge** to Master > **Delete** branch as Master has all the changes made to the branch.
+1. **Project** is "hello-world" with a Master branch and many other feature branches 
+2. **Create** Branch out of the Master so that the branch has a snpashot of Master
+3. Add or **Edit** files and Save changes by Commit one file change at a time 
+4. **Pull request** for all the changes to that branch 
+5. **Merge** to Master > **Delete** branch as Master has all the changes made to the branch.
 
 Today is 3-28-2018 and I am following the GitHub tutorial guide for making a change to the README.md file.
 [GitHub guid](https://guides.github.com/activities/hello-world/)
